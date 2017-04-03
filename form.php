@@ -1,6 +1,6 @@
 <?php
 
-$mail_ontv = 'marc0tjevp@gmail.com';
+$mail_ontv = 'cribbens@student.scalda.nl';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST')
 {#!
