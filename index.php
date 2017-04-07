@@ -122,18 +122,12 @@
                                     <img src="img/logo.jpg" alt="Pontes_Bergweg" class="responsive-img">
                                 </div>
                                 <div class="col l8 m8 s8">
-<<<<<<< HEAD
-                                    <span class="card-title black-text">VMBO-Bouwopleiding</span>
-                                    <br>
-                                    <br>
-                                    <p>September 2012 - 2016</p>
-=======
+
                                     <span class="card-title black-text">Bouwopleiding</span>
                                     <br>
                                     <br>
                                     <p>September 2012 - 2016</p>
                                     <p>VMBO-Kader</p>
->>>>>>> develop
                                     <p>Pontes Bergweg &amp; Design</p>
                                 </div>
                             </div>
