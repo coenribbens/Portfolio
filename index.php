@@ -82,7 +82,7 @@
                 <div class="chip">HTML</div>
                 <div class="chip">CSS</div>
                 <div class="chip">Java</div>
-                <div class="chip">SpringMVC</div>
+                <div class="chip">Springwork</div>
                 <div class="chip">MySQL</div>
                 <div class="chip">Apache Tomcat</div>
                 <div class="chip">Git</div>
@@ -122,10 +122,11 @@
                                     <img src="img/logo.jpg" alt="Pontes_Bergweg" class="responsive-img">
                                 </div>
                                 <div class="col l8 m8 s8">
-                                    <span class="card-title black-text">VMBO-Bouwopleiding</span>
+                                    <span class="card-title black-text">Bouwopleiding</span>
                                     <br>
                                     <br>
                                     <p>September 2012 - 2016</p>
+                                    <p>VMBO-Kader</p>
                                     <p>Pontes Bergweg &amp; Design</p>
                                 </div>
                             </div>
@@ -139,26 +140,28 @@
 
 </div>
 
-<div class="row">
-    <div class="section-title center">Projecten</div>
-    <div class="col 14 m4 s6 offset-l2 offset-m2">
-        <div class="hovereffect center z-depth-2"><img class="responsive-img" src="img/ak.png">
-            <div class="overlay">
-                <h2>Animal Kingdom</h2>
-                <a class="btn-floating white info"
-                                           href="#animalKingdom"><i class="fa fa-info"></i></a>
+<div id="projecten" class="section scrollspy darkbox">
+    <div class="row">
+        <div id="projecten" class="section-title center">Projecten</div>
+        <div class="col 14 m4 s6 offset-l2 offset-m2">
+            <div class="hovereffect center z-depth-2"><img class="responsive-img" src="img/ak.png">
+                <div class="overlay">
+                    <h2>Animal Kingdom</h2>
+                    <a class="btn-floating white info"
+                                               href="#animalKingdom"><i class="fa fa-info"></i></a>
+                </div>
             </div>
         </div>
-    </div>
-    <div class="col l4 m4 s12">
-        <div class="hovereffect center z-depth-2"><img class="responsive-img" src="img/Pasimo.png">
-            <div class="overlay">
-                <h2>Project Pasimo</h2> <a class="btn-floating white info"
-                                           href="#Pasimo"><i class="fa fa-info"></i></a>
+        <div class="col l4 m4 s12">
+            <div class="hovereffect center z-depth-2"><img class="responsive-img" src="img/Pasimo.png">
+                <div class="overlay">
+                    <h2>Project Pasimo</h2> <a class="btn-floating white info"
+                                               href="#Pasimo"><i class="fa fa-info"></i></a>
+                </div>
             </div>
         </div>
-    </div>
 
+    </div>
 </div>
 
 <div id="Pasimo" class="modal">
