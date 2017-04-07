@@ -78,7 +78,7 @@
             </div>
             <div class="col l6 m6 s12 center">
                 <div class="subtitle">Skills</div>
-                <p>Ik heb ervaring met de onderstaande talen, technieken &amp; frameworks.</p>
+                <p>Ik heb ervaring met de onderstaande talen &amp; frameworks.</p>
                 <div class="chip">HTML</div>
                 <div class="chip">CSS</div>
                 <div class="chip">Java</div>
@@ -113,8 +113,27 @@
                 </div>
             </div>
 
+            <div class="col s12 m12 l6">
 
-</div>
+                <div class="card">
+                        <div class="card-content grey lighten-4">
+                            <div class="row">
+                                <div class="col l3 m4 s4">
+                                    <img src="img/logo.jpg" alt="Pontes_Bergweg" class="responsive-img">
+                                </div>
+                                <div class="col l8 m8 s8">
+                                    <span class="card-title black-text">VMBO-Bouwopleiding</span>
+                                    <br>
+                                    <br>
+                                    <p>September 2012 - 2016</p>
+                                    <p>Pontes Bergweg &amp; Design</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
 
 </div>
 
@@ -361,7 +380,7 @@
     </div>
     <div class="footer-copyright">
         <div class="container"> Made with <i class="fa fa-coffee" style="margin-left: 8px;"></i> and <i
-                    class="fa fa-heart" style="margin-left: 8px;"></i> <a
+                    class="fa fa-bug" style="margin-left: 8px;"></i> <a
                     class="grey-text text-lighten-4 right" href="https://github.com/marc0tjevp/portfolio" target="_blank">Based on portfolio</a>
         </div>
     </div>
