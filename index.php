@@ -14,9 +14,9 @@
 
 <body>
 
-  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script type="text/javascript" src="js/materialize.min.js"></script>
-  <script type="text/javascript" src="js/init.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="js/materialize.min.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
 
 <div class="navbar-fixed">
     <nav>
@@ -70,20 +70,34 @@
             <div class="col l6 m6 s12 center">
                 <div class="subtitle">Wie ben ik ?</div>
                 <p>
-                    Mijn naam is Coen Ribbens. Ik ben een student Applicatie- &amp;
-                    Op dit moment zit ik op de afdeling Applicatieontwikkeling (bol 4) op het Scalda te Vlissingen.
-                    Hier zit ik in een projectgroep waar ik steeds nieuwe dingen leer en kan toepassen.
-                    Na mijn 3 jarige opleiding ben ik van plan om door te studeren en meerdere talen te leren
+                    Mijn naam is Coen Ribbens, ik ben 17 jaar en woon in Nederland.</p>
+
+                <p>
+                    Ik sta voor een applicatie van goede kwaliteit en die hiernaast ook makkelijk te gebruiken is,
+                    Ik vind in groepen werken geen probleem aangezien ik op die manier flexiebeler en preciezer kan
+                    zijn.
+                    Ik ben hiernaast doelgericht en oplossend.
+
+                <p>
+                    Mijn hobby's zijn programmeren, basketballen, zeilen en gamen.
+
+                </p>
+                <p>
+                    Ik studeer op dit moment op het
+                    <a href="http://www.scalda.nl">Scalda</a>
+                    Waar ik over object-gerelateerd programmeren, databases en scrum leer.
                 </p>
             </div>
             <div class="col l6 m6 s12 center">
                 <div class="subtitle">Skills</div>
-                <p>Ik heb ervaring met de onderstaande talen &amp; frameworks.</p>
-                <div class="chip">HTML</div>
-                <div class="chip">CSS</div>
+                <p>Ik heb ervaring met de onderstaande talen, plannings methodes &amp; frameworks.</p>
                 <div class="chip">Java</div>
+                <div class="chip">HTML</div>
                 <div class="chip">SpringMVC</div>
                 <div class="chip">MySQL</div>
+                <div class="chip">Scrum</div>
+                <div class="chip">XP</div>
+                <div class="chip">CSS</div>
                 <div class="chip">Apache Tomcat</div>
                 <div class="chip">Git</div>
             </div>
@@ -104,9 +118,11 @@
                                 <img src="img/scalda.png" alt="Scalda" class="responsive-img">
                             </div>
                             <div class="col l8 m8 s8">
-                                <span class="card-title black-text">Applicatie- en Mediaontwikkeling</span>
+                                <span class="card-title black-text">Applicatieontwikkelaar</span>
+                                <br>
                                 <p>September 2016 - Heden</p>
                                 <p>Scalda College voor Techniek &amp; Design</p>
+
                             </div>
                         </div>
                     </div>
@@ -116,28 +132,27 @@
             <div class="col s12 m12 l6">
 
                 <div class="card">
-                        <div class="card-content grey lighten-4">
-                            <div class="row">
-                                <div class="col l3 m4 s4">
-                                    <img src="img/logo.jpg" alt="Pontes_Bergweg" class="responsive-img">
-                                </div>
-                                <div class="col l8 m8 s8">
+                    <div class="card-content grey lighten-4">
+                        <div class="row">
+                            <div class="col l3 m4 s4">
+                                <img src="img/logo.jpg" alt="Pontes_Bergweg" class="responsive-img">
+                            </div>
+                            <div class="col l8 m8 s8">
 
-                                    <span class="card-title black-text">Bouwopleiding</span>
-                                    <br>
-                                    <br>
-                                    <p>September 2012 - 2016</p>
-                                    <p>VMBO-Kader</p>
-                                    <p>Pontes Bergweg &amp; Design</p>
-                                </div>
+                                <span class="card-title black-text">Bouwopleiding</span>
+                                <br>
+                                <p>September 2012 - 2016</p>
+                                <p>VMBO-Kader</p>
+                                <p>Pontes Bergweg &amp; Design</p>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
 
-</div>
+        </div>
+
+    </div>
 
 </div>
 
@@ -149,7 +164,7 @@
                 <div class="overlay">
                     <h2>Animal Kingdom</h2>
                     <a class="btn-floating white info"
-                                               href="#animalKingdom"><i class="fa fa-info"></i></a>
+                       href="#animalKingdom"><i class="fa fa-info"></i></a>
                 </div>
             </div>
         </div>
@@ -175,10 +190,12 @@
 
                 <div class="col s12 m6">
                     <h4>Pasimo</h4>
-                    <p class='light'>Pasimo is het eerste project waar ik mee begonnen ben en nog steeds in meewerk, Voor dit project
-                        is het de bedoeling dat er een goed inklok systeem met onze schoolpasjes komt die automatisch de informatie
+                    <p class='light'>Pasimo is het eerste project waar ik mee begonnen ben en nog steeds in meewerk,
+                        Voor dit project
+                        is het de bedoeling dat er een goed inklok systeem met onze schoolpasjes komt die automatisch de
+                        informatie
                         verzend naar de overheid zodat dit niet meer door mensen gedaan hoeft te worden.
-                       </p>
+                    </p>
                 </div>
                 <div class="col s12 m6 l6 center">
                     <br>
@@ -209,48 +226,48 @@
                     <div class="chip z-depth-1">
                         <i class="fa fa-database" aria-hidden="true"></i> MySQL
                     </div>
-                <div class="chip z-depth-1">
-                    <i class="fa fa-code-fork" aria-hidden="true"></i> SpringMVC
-                </div>
-                <div class="chip z-depth-1">
-                    <i class="fa fa-coffee" aria-hidden="true"></i> Jquery
+                    <div class="chip z-depth-1">
+                        <i class="fa fa-code-fork" aria-hidden="true"></i> SpringMVC
+                    </div>
+                    <div class="chip z-depth-1">
+                        <i class="fa fa-coffee" aria-hidden="true"></i> Jquery
+                    </div>
+
                 </div>
 
-            </div>
+                <div class="col s12 m6 l6 center">
+                    <h5>Info</h5>
+                    <table class="bordered">
+                        <tbody>
+                        <tr>
+                            <td><i class="fa fa-user" aria-hidden="true"></i></td>
+                            <td>Opdrachtgever</td>
+                            <td class="right"><a href="http://scalda.nl/">Scalda Vlissingen</a></td>
+                        </tr>
+                        <tr>
+                            <td><i class="fa fa-clock-o" aria-hidden="true"></i></td>
+                            <td>Tijdsduur</td>
+                            <td class="right">8 maanden</td>
+                        </tr>
+                        <tr>
+                            <td><i class="fa fa-calendar" aria-hidden="true"></i></td>
+                            <td>Opleverdatum</td>
+                            <td class="right">September 2017</td>
+                        </tr>
+                        <tr>
+                            <td><i class="fa fa-graduation-cap" aria-hidden="true"></i></td>
+                            <td>Beoordeling</td>
+                            <td class="right">Nog niet af.</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
 
-            <div class="col s12 m6 l6 center">
-                <h5>Info</h5>
-                <table class="bordered">
-                    <tbody>
-                    <tr>
-                        <td><i class="fa fa-user" aria-hidden="true"></i></td>
-                        <td>Opdrachtgever</td>
-                        <td class="right"><a href="http://scalda.nl/">Scalda Vlissingen</a></td>
-                    </tr>
-                    <tr>
-                        <td><i class="fa fa-clock-o" aria-hidden="true"></i></td>
-                        <td>Tijdsduur</td>
-                        <td class="right">8 maanden</td>
-                    </tr>
-                    <tr>
-                        <td><i class="fa fa-calendar" aria-hidden="true"></i></td>
-                        <td>Opleverdatum</td>
-                        <td class="right">September 2017</td>
-                    </tr>
-                    <tr>
-                        <td><i class="fa fa-graduation-cap" aria-hidden="true"></i></td>
-                        <td>Beoordeling</td>
-                        <td class="right">Nog niet af.</td>
-                    </tr>
-                    </tbody>
-                </table>
             </div>
 
         </div>
-
-      </div>
     </div>
-  </div>
+</div>
 
 <!-- Modals -->
 
@@ -264,11 +281,12 @@
 
                 <div class="col s12 m6">
                     <h4>Animal Kingdom</h4>
-                    <p class='light'>Animal kingdom was mijn eerste opdracht met als doel het leren van de Java taal.
-                    Samengevat was het de bedoeling dat er een dierentuin is waar kooien in zitten, Elke kooi bevat een soort dier.
-                    Hiernaast zijn er ook mensen die moeten kunnen trouwen. Ook moeten de dieren zich kunnen voortplanten.
-                    Deze opdracht duurde 5 maanden en heb hier ook de tijd voor genomen. Nadat het Java gedeelte af was heb ik
-                    met het Spring framework een view gemaakt.</p>
+                    <p class='light'>
+                    Animal kingdom was mijn eerste opdracht met als doel het leren van de basis van programmeren.
+                    De bedoeling was om een dierentuin te maken die dieren in kooien bevatten, Elke kooi bevat één soort dier.
+                    De dieren kunnen zich voortplanten en de mensen kunnen ook trouwen.
+                    We hadden 5 maanden voor het java en het online gedeelte, Nadat het java gedeelte af was heb ik met
+                    het springMVC een online overview gemaakt zodat het makkelijker gebruikt kan worden.</p>
                 </div>
                 <div class="col s12 m6 l6 center">
                     <br>
@@ -327,7 +345,7 @@
                         <tr>
                             <td><i class="fa fa-graduation-cap" aria-hidden="true"></i></td>
                             <td>Beoordeling</td>
-                            <td class="right">Goed</td>
+                            <td class="right">Voldoende</td>
                         </tr>
                         </tbody>
                     </table>
@@ -340,7 +358,7 @@
                     <h5>Screenshots</h5>
                 </div>
             </div>
-<!--            //Screenshots for animal kingdom, Main animal class-->
+            <!--            //Screenshots for animal kingdom, Main animal class-->
             <div class="row">
                 <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2"
                                                        data-caption="Een voorbeeld van een class in mijn project"
@@ -376,7 +394,7 @@
                 <p>
                     <i class="fa fa-map-marker"></i> Voorburcht 3, 4421EM Kapelle
                     <br><i class="fa fa-phone"></i> 06 30 79 59 97
-                    <br><i class="fa fa-skype"></i>  coen.ribbens
+                    <br><i class="fa fa-skype"></i> coen.ribbens
                     <br> <i class="fa fa-envelope"></i> cribbens@student.scalda.nl
                 </p>
             </div>
@@ -385,7 +403,8 @@
     <div class="footer-copyright">
         <div class="container"> Made with <i class="fa fa-coffee" style="margin-left: 8px;"></i> and <i
                     class="fa fa-bug" style="margin-left: 8px;"></i> <a
-                    class="grey-text text-lighten-4 right" href="https://github.com/marc0tjevp/portfolio" target="_blank">Based on portfolio</a>
+                    class="grey-text text-lighten-4 right" href="https://github.com/marc0tjevp/portfolio"
+                    target="_blank">Based on portfolio</a>
         </div>
     </div>
 </footer>
